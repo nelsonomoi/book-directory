@@ -1,2 +1,2 @@
 # book-directory
-A simple javascript learning project build using node
+A simple javascript learning project built using node
