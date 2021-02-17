@@ -4,7 +4,7 @@
   "description": "a book directory system ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node server.js"
   },
   "author": "nelson omoi",
   "license": "MIT",
@@ -14,6 +14,7 @@
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "postcss": "^8.2.4",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.0.2",
+    "vite": "^2.0.1"
   }
 }
